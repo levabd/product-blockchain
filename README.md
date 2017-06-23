@@ -1,4 +1,4 @@
-# solidity-example
+# Product blockchain example project
 
 ## Based on the article 
 https://medium.com/zeppelin-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
