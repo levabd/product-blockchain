@@ -51,5 +51,7 @@ Error: Error: VM Exception while executing eth_call: invalid opcode
 ```
 <p>Ethereum docs: http://ethdocs.org/en/latest/contracts-and-transactions/index.html</p>
 <p>Solidity docs: https://solidity.readthedocs.io/en/develop/</p>
+<p>Solidity examples: https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts</p>
+<p>FoodBlockchain example: https://github.com/foodblockchainxyz/FoodCoin</p>
 <p>Client for blockchain can be written using: https://github.com/ethereum/web3.js</p>
 <p>Example of clients: https://github.com/tomconte/solarchain-dashboard/blob/master/viz.js</p>
