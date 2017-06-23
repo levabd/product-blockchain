@@ -49,5 +49,7 @@ truffle(development)> poe.then(contract=>contract.show("Get the new version of t
 Error: Error: VM Exception while executing eth_call: invalid opcode
 
 ```
-
-Client for blockchain can be written using https://github.com/ethereum/web3.js
+Ethereum docs: http://ethdocs.org/en/latest/contracts-and-transactions/index.html
+Solidity docs: https://solidity.readthedocs.io/en/develop/
+Client for blockchain can be written using: https://github.com/ethereum/web3.js
+Example of clients: https://github.com/tomconte/solarchain-dashboard/blob/master/viz.js
