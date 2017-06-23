@@ -47,8 +47,8 @@ truffle(development)> poe.then(contract=>contract.show("Get the new version of t
 // product does not exists 
 truffle(development)> poe.then(contract=>contract.show("Get the new version of the contract 2").then(console.log))
 Error: Error: VM Exception while executing eth_call: invalid opcode
-
 ```
+## Links
 - Ethereum docs: http://ethdocs.org/en/latest/contracts-and-transactions/index.html
 - Solidity docs: https://solidity.readthedocs.io/en/develop/
 - Solidity examples: https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts
